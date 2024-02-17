@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Embark on a journey through the intricate world of Uber data analytics with our pioneering project, which capitalizes on the power of the Google Cloud Platform (GCP) and Python's versatility. Aimed at dissecting vast amounts of data to unearth actionable insights, this initiative is designed to refine business strategies and improve decision-making capabilities.
+Embark on a journey through the intricate world of Uber data analytics with my pioneering project, which capitalizes on the power of the Google Cloud Platform (GCP) and Python's versatility. Aimed at dissecting vast amounts of data to unearth actionable insights, this initiative is designed to refine business strategies and improve decision-making capabilities.
 
 ## Architecture
 
